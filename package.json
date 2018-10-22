@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Mihu89/Templates/issues"
   },
-  "homepage": "https://github.com/Mihu89/Templates#readme"
+  "homepage": "https://github.com/Mihu89/Templates#readme",
+  "dependencies": {
+    "ejs": "^2.6.1"
+  }
 }
